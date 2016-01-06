@@ -1,0 +1,101 @@
+[{
+    "name" : "time",
+	 "type": "STRING"
+            },
+            {
+	  "type": "STRING"
+            },
+            {
+	"name" :"user_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"ip",
+	 "type": "STRING"
+            },
+            {
+	"name" :"advertiser_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"buy_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"ad_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"creative_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"creative_version",
+	 "type": "STRING"
+            },
+            {
+	"name" :"creative_size_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"site_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"page_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"keyword",
+	 "type": "STRING"
+            },
+            {
+	"name" :"country_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"state",
+	 "type": "STRING"
+            },
+            {
+	"name" :"browser_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"browser_version",
+	 "type": "STRING"
+            },
+            {
+	"name" :"os_id", 
+	"type": "STRING"
+            },
+            {
+	"name" :"dma_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"city_id",
+	 "type": "STRING"
+            },
+            {
+	"name" :"site_data",
+	 "type": "STRING"
+            },
+            {
+	"name" :"time_utc_sec",
+	 "type": "STRING"
+            },
+            {
+	"name" :"areacode",
+	 "type": "STRING"
+            },
+            {
+	"name" :"zip_code",
+	 "type": "STRING"
+            },
+            {
+	"name" :"andone", 
+	"type": "STRING"
+            }
+
+ ]

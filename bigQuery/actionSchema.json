@@ -1,0 +1,122 @@
+[{
+    "name" : "time",
+	 "type": "STRING"
+            },
+            {
+	"name" :"userid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"ip",
+	 "type": "STRING"
+            },
+            {
+	"name" :"advertiserid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"buyid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"adid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"creativeid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"creativeversion",
+	 "type": "STRING"
+            },
+            {
+	"name" :"creativesizeid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"siteid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"pageid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"keyword",
+	 "type": "STRING"
+            },
+            {
+	"name" :"countryid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"stateprovince",
+	 "type": "STRING"
+            },
+            {
+	"name" :"browserid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"browserver",
+	 "type": "STRING"
+            },
+            {
+	"name" :"osid", 
+	"type": "STRING"
+            },
+            {
+	"name" :"localuserid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"activitytype",
+	 "type": "STRING"
+            },
+            {
+	"name" :"activitysubtype",
+	 "type": "STRING"
+            },
+            {
+	"name" :"quantity",
+	 "type": "STRING"
+            },
+            {
+	"name" :"revenue",
+	 "type": "STRING"
+            },
+            {
+	"name" :"transactionid",
+	 "type": "STRING"
+            },
+            {
+	"name" :"otherdata", 
+	"type": "STRING"
+            },
+			   {
+	"name" :"ordinal", 
+	"type": "STRING"
+            },
+			   {
+	"name" :"clicktime", 
+	"type": "STRING"
+            },
+			   {
+	"name" :"eventid", 
+	"type": "STRING"
+            },
+			   {
+	"name" :"sv1", 
+	"type": "STRING"
+            },
+			   {
+	"name" :"areacode", 
+	"type": "STRING"
+            },
+			   {
+	"name" :"partnerid1", 
+	"type": "STRING"
+            }
+
+ ]
